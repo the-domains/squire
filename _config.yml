@@ -1,4 +1,3 @@
-layout_spectrum: 0.6926660528406501
 typography_spectrum: 0.8388551485259086
 color:
   brandStrength: 0.6908307834528387
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.6926660528406501
 name: squire
 title: Systems cueing you & I are electronic.
+description: Your equal.
