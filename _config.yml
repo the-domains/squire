@@ -1,0 +1,14 @@
+layout_spectrum: 0.6926660528406501
+typography_spectrum: 0.8388551485259086
+color:
+  brandStrength: 0.6908307834528387
+  lightness: 0.8310630430933088
+  saturation: 0.10606530960649252
+  rhythmicContrast: 0.5597252286970615
+  brandColors:
+    - '#FFFFFF'
+    - '#2E4462'
+    - '#765DF7'
+    - '#E5476E'
+    - '#E2E2E2'
+name: squire
