@@ -11,6 +11,10 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.6926660528406501
-name: squire
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/efdbace0-38db-45da-8e68-78b34468cbb0.jpg
+name: squire/testsite
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/77018d7c-cfb5-49a5-86c1-7bfdbf6c956d.jpg
 title: Systems cueing you & I are electronic.
 description: Your equal.
